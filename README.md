@@ -3,14 +3,19 @@
 </h1>
 
 
-# 💫 About Me:
-Passionate about **Cybersecurity** and **Data Structures & Algorithms**, with a focus on network security, ethical hacking fundamentals, and problem-solving in Java. I enjoy building practical skills through hands-on projects, CTF-style learning, and consistent coding practice.
+# 💻 About Me
+
+* 🧠 **Current Focus:** Deep-diving into **Ethical Hacking**, **Network Security**, and **Java DSA**.
+* 🎯 **Hands-on Mindset:** Learning through CTFs, practical security labs, and consistent LeetCode problem-solving.
+* ⚡ **Fast Learner:** Quick to adapt to new security frameworks, environments, and languages.
 
 <br>
 
 <br>
 
-🚀 **LeetCode Profile**
+<br>
+
+## 🚀 LeetCode Profile:
 
 <div align="center">
   <a href="https://leetcode.com/u/Adarsh24leet/">
