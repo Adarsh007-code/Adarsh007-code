@@ -10,10 +10,6 @@ Passionate about **Cybersecurity** and **Data Structures & Algorithms**, with a 
 
 🚀 **LeetCode Profile**
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/adarsh_007/?theme=dark&font=syne&ext=activity" alt="LeetCode Stats">
-</div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-raj-631b63376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeadarsh24@gmail.com) 
 
