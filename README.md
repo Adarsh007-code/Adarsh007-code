@@ -8,11 +8,8 @@
 * 🧠 **Current Focus:** Deep-diving into **Ethical Hacking**, **Network Security**, and **Java DSA**.
 * 🎯 **Hands-on Mindset:** Learning through CTFs, practical security labs, and consistent LeetCode problem-solving.
 * ⚡ **Fast Learner:** Quick to adapt to new security frameworks, environments, and languages.
-
 <br>
-
 <br>
-
 <br>
 
 ## 🚀 LeetCode Profile:
