@@ -11,7 +11,7 @@ Passionate about **Cybersecurity** and **Data Structures & Algorithms**, with a 
 🚀 **LeetCode Profile**
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Adarsh007-code?theme=dark&font=syne&ext=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/adarsh_007/?theme=dark&font=syne&ext=activity" alt="LeetCode Stats">
 </div>
 
 ## 🌐 Socials:
