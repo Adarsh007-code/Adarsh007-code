@@ -1,6 +1,18 @@
-# 💫 About Me:
-💫 About Me<br><br> 🎓 Education: 2nd-year Computer Science student at GLA University.<br> 🛡️ Focus: Deep-diving into Cybersecurity (network security, ethical hacking, and system defense).<br> ⚡ Fun Fact: Rapid learner who thrives on tackling complex bugs and new security frameworks overnight.<br> 🎯 Goal: Building secure applications and understanding how to break (and fix) complex systems.<br> 
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="wave">, I'm Adarsh
+</h1>
 
+
+# 💫 About Me:
+Passionate about **Cybersecurity** and **Data Structures & Algorithms**, with a focus on network security, ethical hacking fundamentals, and problem-solving in Java. I enjoy building practical skills through hands-on projects, CTF-style learning, and consistent coding practice.
+
+<br>
+
+🚀 **LeetCode Profile**
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Adarsh007-code?theme=dark&font=syne&ext=activity" alt="LeetCode Stats">
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-raj-631b63376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeadarsh24@gmail.com) 
