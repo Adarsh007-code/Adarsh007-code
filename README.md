@@ -17,6 +17,16 @@
   </a>
 </div>
 
+<br>
+
+## ✍️ Tech Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+
+
+<!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-raj-631b63376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeadarsh24@gmail.com) 
 
